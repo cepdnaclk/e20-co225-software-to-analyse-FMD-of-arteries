@@ -1,5 +1,5 @@
 ___
-# DELETE THIS INSTRUCTIONS AND ADD A SHORT INTRODUCTION ABOUT YOUR PROJECT
+# A software to aid analysis of flow mediated dialation of arteries
 ___
 
 ## Please refer the instructions in below URL:
