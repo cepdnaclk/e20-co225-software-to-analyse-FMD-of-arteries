@@ -1,5 +1,5 @@
 ___
-# FMD Software
+# Software to analyse FMD of arteries 
 ___
 
 
